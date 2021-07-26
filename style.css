@@ -1,0 +1,15 @@
+.info-clr{
+    background-color: #fceae8;
+
+}
+.categories img{
+    width:100px;
+}
+.btn-buy-now{
+    background-image: linear-gradient(to bottom, #fe73ab 0%, #ff1570 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border:none;
+
+}
